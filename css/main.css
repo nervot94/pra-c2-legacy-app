@@ -208,12 +208,14 @@ nav a{
   background: #02E6A5;
   border-radius: 8px;
   text-decoration: none;
-  color: #fff;
+  color: #ec7e00;
+  font-weight: bold;
   letter-spacing: 6px;
 }
 nav a:hover{
   background-color: #fff;
-  color: black;
+  font-weight: bold;
+  color: #ec7e00;
 }
 
 /*================banner=======================*/
