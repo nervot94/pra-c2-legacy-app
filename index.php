@@ -37,9 +37,9 @@
         ?>
 
         <script type="text/javascript">
-            document.getElementById('readmore-lnk').addEventListener('click', function () {
-                document.getElementById('readmore-txt').style.display = "inline";
-                document.getElementById('readmore-lnk').style.display = "none";
+            document.getElementById('readmore-link').addEventListener('click', function () {
+                document.getElementById('readmore-text').style.display = "inline";
+                document.getElementById('readmore-link').style.display = "none";
             });
         </script>
 
