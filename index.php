@@ -30,9 +30,9 @@
         require_once ('includes/header.php');
         require_once ('includes/banner.php');
         require_once ('includes/pra.php');
+        require_once ('includes/pro.php');
         require_once ('includes/windev.php');
         require_once ('includes/webdev.php');
-        require_once ('includes/pro.php');
         require_once ('includes/digit.php');
         require_once ('includes/footer.php');
         ?>

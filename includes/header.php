@@ -7,8 +7,8 @@
 		<nav>
 			<a href="#home">HOME</a>
 			<a href="#pra">PRA</a>
-			<a href="#win">WIN</a>
 			<a href="#pro">PRO</a>
+			<a href="#win">WIN</a>
 			<a href="#web">WEB</a>
 			<a href="#div">DIV</a>
 			<a href="#footer">CONTACT</a>
