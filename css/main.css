@@ -253,8 +253,9 @@ article img{
 .collega img{
   height: 60px;
   border: 4px solid #015940;;
-  border-radius: 50%;
+  border-radius: 0%;
   margin-bottom: 20px;
+  box-shadow: 3.2px 3px rgb(196, 196, 196);
 }
 
 /*==================footer=========================*/
