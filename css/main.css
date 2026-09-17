@@ -162,12 +162,12 @@ h1, h2, h3{
 h2, h3{
   margin: 0;
   font-family: 'Big Shoulders Stencil Display', cursive;
-  font-size: 2rem;
+  font-size: 3.5rem;
   letter-spacing: 6px;
 }
 h3{
   padding: 0 0 20px 0;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
 }
 h4{
   text-align: center;
