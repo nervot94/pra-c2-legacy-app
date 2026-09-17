@@ -15,6 +15,7 @@
 				<?php 
   					require ('collegas/elton.php');
   					require ('collegas/ine.php');
+					require ('collegas/bart.php')
   				?>
 			</div>
 		</div>
